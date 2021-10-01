@@ -1,2 +1,2 @@
-# Puzzle_Game
-A mini puzzle game to test your maths skills.
+# Python Projects
+A few python practice Exersics
