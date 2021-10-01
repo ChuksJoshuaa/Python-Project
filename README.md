@@ -1,2 +1,2 @@
 # Python Projects
-A few python practice Exersics
+A few python practice Exercise
